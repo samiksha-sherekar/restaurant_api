@@ -1,0 +1,24 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "The Spicy Grill",
+      "description": "A place for spicy food lovers.",
+      "location": "123 Spicy Lane, Spice City",
+      "phone": "+1234567890",
+      "email": "contact@spicygrill.com",
+      "image": "spicygrill.jpg",
+      "category": "Fast Food"
+    },
+    {
+      "id": 2,
+      "name": "Green Garden",
+      "description": "Fresh and healthy vegetarian meals.",
+      "location": "456 Green St, Veggie Town",
+      "phone": "+1234567891",
+      "email": "info@greengarden.com",
+      "image": "greengarden.jpg",
+      "category": "Vegetarian"
+    }
+  ]
+}
